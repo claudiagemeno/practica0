@@ -1,5 +1,6 @@
 import pandas as pd
 import sweetviz as sv
+import graphviz
 
 loan_test_set = pd.read_csv("../data/Loan_test_set.csv")
 
